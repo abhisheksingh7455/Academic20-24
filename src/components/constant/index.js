@@ -8,7 +8,7 @@ export const BRANCHES = [
         label: 'CSE',
     },
     {
-        value: 'EC',
+        value: 'ECE',
         label: 'ECE',
     },
     {
