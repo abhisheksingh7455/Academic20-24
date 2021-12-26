@@ -355,7 +355,7 @@ const Home = ({ darkMode, setDarkMode, update }) => {
                 />
             )}
             <a
-                href="https://forms.gle/Ka13oD2RzBnyie4R9"
+                href="https://forms.gle/fe58YpHsSnNiUf3C8"
                 className="anomaly"
                 target="_blank"
             >
