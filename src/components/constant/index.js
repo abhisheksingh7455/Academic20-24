@@ -8,6 +8,10 @@ export const BRANCHES = [
         label: 'CSE',
     },
     {
+        value: 'CS(AIML)',
+        label: 'CS(AIML)',
+    },
+    {
         value: 'ECE',
         label: 'ECE',
     },
@@ -23,6 +27,11 @@ export const BRANCHES = [
         value: 'ME',
         label: 'ME',
     },
+    {
+        value: 'ME(MANUF.)',
+        label: 'ME(MANUF)',
+    },
+    
     {
         value: 'BT',
         label: 'BT',
