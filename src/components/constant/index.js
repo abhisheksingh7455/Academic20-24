@@ -40,7 +40,8 @@ export const BRANCHES = [
 
 export const EXCELFILES = [
     'dat/B. TECH. I SEM DEC 2020(COVID 19)(1).xlsx',
-    'dat/B. TECH. II SEM JUNE 2021 (COVID 19).xlsx'
+    'dat/B. TECH. II SEM JUNE 2021 (COVID 19).xlsx',
+    'dat/IIIrd SEM.xlsx'
     
     
 
